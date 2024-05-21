@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Hipparagi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello, I'm Abhishek Hipparagi, an enthusiastic embedded systems engineer with a passion for continuous learning and innovation.
 ==========================================================================================================================================
 
 Embedded systems engineer
@@ -9,7 +9,7 @@ Crafting the Future with Microcontrollers, Sensors, Protocols, Power electronics
 * 🌍  I'm based in Bangalore, Karnataka.
 * ✉️  You can contact me at [abhihipparagi11c@gmail.com](mailto:abhihipparagi11c@gmail.com)
 * 🤝  I'm open to collaborating on Projects related to embedded systems.
-* ⚡  I am an Ironman who never leaves a project unfinished.
+* ⚡  I am dedicated like Ironman, never leaving a project unfinished.
 
 ### Skills
 * Programming Languages: Advance C, C++, Shell scripting and Data structures.
