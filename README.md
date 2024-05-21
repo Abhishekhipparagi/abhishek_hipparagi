@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded systems engineer
 -------------------------
 
-Crafting the Future with Microcontrollers, Sensors, IoT Wizard and PCB Artistry | Code Guru in C/C++ | RTOS & Linux Luminary | #Smart Indian Hackathon Finalist.
+Crafting the Future with Microcontrollers, Sensors, Protocols, Power electronics, IoT Wizard and PCB Artistry | Code Guru in C/C++ | RTOS & Linux Luminary | #Smart Indian Hackathon Finalist.
 
 * 🌍  I'm based in Bangalore, Karnataka.
 * ✉️  You can contact me at [abhihipparagi11c@gmail.com](mailto:abhihipparagi11c@gmail.com)
