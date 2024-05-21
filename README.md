@@ -12,7 +12,15 @@ Crafting the Future with Microcontrollers, Sensors, Protocols, Power electronics
 * ⚡  I am an Ironman who never leaves a project unfinished.
 
 ### Skills
-
+* Programming Languages: Advance C, C++, Shell scripting and Data structures.
+* Embedded Controllers: Hands-on working with GPIOs, Analog I/Os, Memory usage, Interfacing, Character LCD.
+* Peripherals usage: Timers, Counters, and Interrupts.
+* Distributions: Linux (Fedora/Ubuntu).
+* Embedded platforms: Microchip's PIC MCU (PIC18F4580, PIC16F877A & dsPIC33ckxxx), ST's MCU (ARM Cortex-M Series M3 & M4), Microchip's AVR MCU (Atmega & Attiny), Espressif WiFi MCU (ESP8266 & ESP32).
+* Communication protocols: UART, SPI, I2C, & CAN.
+* Development environment: Vim, Makefiles, MPLAB, STM32CUBEIDE, Arduino IDE, and Vscode.
+* EDA/PCB Design: KiCad and Proteus Professional.
+* Miscellaneous: Soldering, Oscilloscope, Logic and Protocol Analyser.
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
